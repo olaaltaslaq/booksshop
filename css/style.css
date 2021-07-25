@@ -1,0 +1,66 @@
+body  {
+    background-image: url("https://peoriaparks.org/wp-content/uploads/2017/12/BookCourt_iStock-690358116-e1515177346323.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: #eee;
+    background-color: rgba(64, 34, 24,0.7);
+    padding: 2%;
+    margin-bottom: 2%;
+    font-size: 26px;
+}
+
+#formdiv{
+    color: #eee;
+    background-color: rgba(64, 34, 24,0.7);
+    padding: 2%;
+    margin-right: 55%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+#table{
+    color: #eee;
+    background-color: rgba(64, 34, 24,0.7);
+}
+footer{
+    text-align: center;
+    color: #eee;
+    background-color: rgba(64, 34, 24,0.7);
+    padding: 2%;
+    margin-top: 2%;
+}
+
+#price{
+    width: 200px;
+    color: black;
+    margin-left: 90px;
+}
+#name{
+    width: 200px;
+    color: black;
+    margin-left: 80px;
+}
+
+#tablediv{ 
+    color: #eee;
+    background-color: rgba(64, 34, 24,0.7);
+    padding: 5%;
+    margin-left: 50%;
+    margin-right: 10%;
+    margin-bottom: 20%;
+    margin-top: -10%;
+
+}
+
+#submit{
+    background-color: #C68B59;
+    color:#eee;
+    margin-left: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
