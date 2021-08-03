@@ -26,7 +26,15 @@ h1{
 #table{
     color: #eee;
     background-color: rgba(64, 34, 24,0.7);
+    width: 100%;
+    border: 1px solid rgb(175, 150, 150);
 }
+
+th, td {
+    border: 1px solid rgb(175, 150, 150);
+    text-align: center;
+}
+
 footer{
     text-align: center;
     color: #eee;
@@ -41,9 +49,9 @@ footer{
     margin-left: 90px;
 }
 #name{
-    width: 200px;
+    width: 192px;
     color: black;
-    margin-left: 80px;
+    margin-left: 85px;
 }
 
 #tablediv{ 
@@ -63,4 +71,5 @@ footer{
     margin-left: 100px;
     padding-left: 150px;
     padding-right: 150px;
+    margin-top: 20px;
 }

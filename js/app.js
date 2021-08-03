@@ -25,13 +25,13 @@ function renderHeader(){
   namebook.textContent=' Book Name';
   headerRow.appendChild(namebook);
 
-  var pagesbook = document.createElement('th');
-  pagesbook.textContent=' Book pages';
-  headerRow.appendChild(pagesbook);
-
   var priceBook = document.createElement('th');
   priceBook.textContent=' Book Price';
   headerRow.appendChild(priceBook);
+
+  var pagesbook = document.createElement('th');
+  pagesbook.textContent=' Book pages';
+  headerRow.appendChild(pagesbook);
 
 }
 
